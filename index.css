@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+}
+body{
+    background-color: rgb(95, 16, 16);   
+}
+
+.comicContainer{
+    border: solid black;
+    height: 72vh;
+    background: rgb(65, 53, 53);
+}
+.rowOne, .rowTwo{
+    border:solid black;
+    height: 45%;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic{
+    border: solid black;
+    width: 100%;
+    height: 70%;
+}
+.block{
+
+    width: 40%;
+}
+.punchLine{
+    border:solid black; 
+    height:20%;
+    text-align:center;
+    
+}
